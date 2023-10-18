@@ -1,6 +1,7 @@
 ## The Association of Canadian Mountain Guides
 
 🌐 Public Site [ACMG.ca](https://acmg.ca)
+
 🌐 Training & Assessment Program Site [TAPacmg.ca](https://tapacmg.ca)
 
 
