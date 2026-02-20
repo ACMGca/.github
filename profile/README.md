@@ -2,10 +2,6 @@
 
 🌐 [ACMG.ca](https://acmg.ca) - Public Website 
 
-🌐 [TAPacmg.ca](https://tapacmg.ca) - Training & Assessment Program Website 
-
-
-
 <!--
 **Here are some ideas to get you started:**
 
